@@ -1,0 +1,43 @@
+
+.women{
+    background-image: url(./image/women.jpg);
+    background-size: cover;
+    background-position: center;
+    aspect-ratio: 4/3;
+}
+.men{
+    background-image: url(./image/men.jpg);
+    background-size: cover;
+    background-position: center;
+    aspect-ratio: 4/3;
+}
+.kids{
+    background-image: url(./image/kids.jpg);
+    background-size: cover;
+    background-position: center;
+    aspect-ratio: 4/3;
+}
+#bagscollection{
+    background-image: url(./image/bagcollection.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#mencollection{
+    background-image: url(./image/mencollection.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#womencollection{
+    background-image: url(./image/womencollection.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#sshirtscollection{
+    background-image: url(./image/sshirtscollection.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
